@@ -2,6 +2,8 @@
 ### __USE & STUDY__
 ><img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=Gmail&logoColor=D22128"><img src="https://img.shields.io/badge/Postype-white?style=for-the-badge&logo=Processing Foundation&logoColor=000000"><img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=Python&logoColor=3776AB"><img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=007396">
 
+- [POSTYPE](https://ck-program2.postype.com/series)
+
 
 ***
 ### __Github Stats__
